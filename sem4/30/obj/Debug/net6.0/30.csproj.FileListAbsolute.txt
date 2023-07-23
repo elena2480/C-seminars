@@ -1,0 +1,15 @@
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.csproj.AssemblyReference.cache
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.AssemblyInfoInputs.cache
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.AssemblyInfo.cs
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.csproj.CoreCompileInputs.cache
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\bin\Debug\net6.0\30.exe
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\bin\Debug\net6.0\30.deps.json
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\bin\Debug\net6.0\30.runtimeconfig.json
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\bin\Debug\net6.0\30.dll
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\bin\Debug\net6.0\30.pdb
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.dll
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\refint\30.dll
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.pdb
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\30.genruntimeconfig.cache
+D:\Алёна\GEEKBRAINS\C-seminars\sem4\30\obj\Debug\net6.0\ref\30.dll
